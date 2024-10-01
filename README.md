@@ -1,3 +1,5 @@
+# Forecasting Railroad Track Failures Due to Extreme Temperature Flucuations
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The objective of this project is to develop a machine learning model that helps to predict potential derailment locations specifically caused by track failures due to the result of extreme temperatures fluctuations. By integrating national weather forecasts with historical derailment and track data, the model will identify high-risk areas where derailments are most likely to occur based off the weather forecast. This analysis aims to enable predictive maintenance strategies, focusing on increasing track inspections and repairs during and immediately after periods of extreme weather conditions to mitigate derailment risks.
