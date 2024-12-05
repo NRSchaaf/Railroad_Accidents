@@ -14,6 +14,7 @@
 5. [Key Findings](##key-findings)  
 6. [Conclusion](##conclusion)  
 7. [References](##references)
+8. [Publication](##publication)
 
 
 <!-- Introduction -->
@@ -106,3 +107,8 @@ These strategies will enhance safety, minimize derailments, and address vulnerab
 
 
 For further details, refer to the full analysis and visualizations in the `notebooks` and `images` directories.
+
+<!-- Publication -->
+## Publication
+
+A detailed writeup of the analysis can be read in the [Weathering_the_Rails.pdf ](https://github.com/NRSchaaf/weathering_the_rails/blob/main/Weathering_the_Rails.pdf).
